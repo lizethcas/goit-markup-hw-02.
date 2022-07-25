@@ -1,2 +1,2 @@
-# goit-markup-hw-03
- tarea3: posicionamiento y margenes
+# goit-markup-hw-02
+ tara2:aplicar fuentes y colores HTML
