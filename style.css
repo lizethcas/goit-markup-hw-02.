@@ -55,11 +55,13 @@ header {
 .enlaces {
     display: flex;
     justify-content: end;
+    margin-top: 8px;
+    list-style: none;
 }
 
-.contenedor-header ul {
+/* .contenedor-header ul {
     margin-top: 8px;
-}
+} */
 
 .enlaces .menu {
     color: var(--color-negro);
@@ -459,6 +461,6 @@ footer {
 }
 
 .redes:hover {
-    background: var(--color-azul);
+    fill: var(--color-azul);
 
 }
